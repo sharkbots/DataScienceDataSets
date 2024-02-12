@@ -4,3 +4,5 @@ The world_happiness_2015.csv file is from the GWC_DCMB curriculum notebook repos
 
 http://umich.edu/~girlswc/
 https://github.com/GWC-DCMB/curriculum-notebooks/tree/main
+
+Food Consumption and its readme are from BootstrapWorld's data science curriculum licensed under CC-BY-NC-ND. The only change made was the formatting by changing the column names to make it easier to read for an educational data science class. 
