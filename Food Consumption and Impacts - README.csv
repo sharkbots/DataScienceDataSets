@@ -1,0 +1,49 @@
+,
+,
+DATA CLEANING:,
+There are currently 195 countries. Complete data was availabe for 164 of them.,
+,
+SOURCES:,
+GDP Per Capita (2018),"Source: Max Roser and Hannah Ritchie (2013) - ""Food Supply"". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/food-supply' [Online Resource]"
+"Daily Kcalories per capita (2018): This measures the quantity that is available for consumption at the end of the supply chain. It does not account for
+consumer waste, so the quantity that is actually consumed may be lower than this value.","Source: Max Roser and Hannah Ritchie (2013) - ""Food Supply"". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/food-supply' [Online Resource]"
+Animal protein consumption per day (2017),"Source: Max Roser and Hannah Ritchie (2013) - ""Food Supply"". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/food-supply' [Online Resource]"
+Plant protein consumption per day (2017),"Source: Max Roser and Hannah Ritchie (2013) - ""Food Supply"". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/food-supply' [Online Resource]"
+"Percent Overweight & Obese (2016): The most common metric used for assessing the prevalence of obesity is the body mass index (BMI) scale. The World Health Organization define BMI as: “a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity in adults. It is defined as the weight in kilograms divided by the square of the height in metres (kg/m2). For example, an adult who weighs 70kg and whose height is 1.75m will have a BMI of 22.9."" Measured BMI values are used to define whether an individual is considered to be underweight, healthy, overweight or obese. The WHO defines these categories using the cut-off points in the table. For example, an individual with a BMI between 25.0 and 30.0 is considered to be ‘overweight’; a BMI greater than 30.0 is defined as ‘obese’.12","Source: Hannah Ritchie and Max Roser (2017) - ""Obesity"". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/obesity' [Online Resource]"
+CO2 per capita (2020),"Source: Global Carbon Project. (2021). Supplemental data of Global Carbon Project 2021 (1.0) [Data set]. Global Carbon Project. https://doi.org/10.18160/gcp-2021.
+
+Andrew, Robbie M., & Peters, Glen P. (2021). The Global Carbon Project's fossil CO2 emissions dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5569235.
+
+Our World in Data have renamed the category ""bunker fuels"" as ""International transport"" for improved clarity, which includes emissions from international aviation and shipping.
+
+Population figures are sourced from Gapminder (v6), HYDE (v3.2), United Nations Population Division (2019). Links: https://www.gapminder.org/data/documentation/gd003/; https://population.un.org/wpp/Download/Standard/Population/; https://dataportaal.pbl.nl/downloads/HYDE/"
+Agricultural Land as % of land area (2018) ,"Source: https://data.worldbank.org/indicator/AG.LND.AGRI.ZS accessed August 18, 2022 lists its sources as Food and Agriculture Organization, electronic files and web site."
+Population Density (2018),"Source: https://data.worldbank.org/indicator/EN.POP.DNST accessed August 18,2022 lists its sources as Food and Agriculture Organization and World Bank population estimates."
+Population (2018),
+Religion (2018),https://datahub.io/sagargg/world-religion-projections accessed August 2022
+"Produce at least as much food as import? (2019): This is based on food net trade values. A negative value could mean that a country exports enough to feed its population (rice and beans), but chooses to import a lot of food not available within the country (for example avocados and fish). A country with a positive value could also not have enough food to feed its population, but choose to export some of what they have and import less food than that.","table 29 of https://www.fao.org/3/cb4477en/online/cb4477en.html#tab30 accessed August 19, 2022"
+Region,https://datahub.io/sagargg/world-religion-projections accessed August 2022
+"Cereal Import Independent: Cereals = wheat, rice, maize and other course grains. The values in this column are based on average cereal import dependency ratios beween 2016-2018",http://data.un.org/Data.aspx?q=dependency+ratio&d=FAO&f=itemCode%3A21035 accessed August 2022
+Landlocked Country: Doesn't have any direct access to an ocean.,generated using https://thefactfile.org/landlocked-countries-list/
+,
+,
+,
+,
+,
+,
+# Some notes on Columns,
+# food-ind = produce at least as much food as import,Produce at least as much food as import (2019)
+# grain-ind = produce at least as much rice/wheat/corn as import,cereal import independent
+# pct-agr = agricultural land as percent of land area,agricultural land as percent of land area (2017)
+# pop-density = people per sq km,pop density per sq km (2017)
+# gdp-pc = gross domestic product per capita,"GDP per capita, PPP (constant 2017 international $)"
+# pct-ow = % of adults who are obese or overweight,percent overweight 2016
+# co2 = Annual CO2 emissions per capita (tonnes),Annual CO2 emissions in tonnes per capita (2020)
+# cal-pc = daily per capita caloric supply,Daily caloric supply (kcal per capita 2017 - OWID based on UN FAO)
+"# animal-p = Protein from meat, eggs, dairy (g/capita/day)","Animal Products - Protein supply quantity (g/capita/day) (FAO, 2017)"
+# plant-p = Protein from plants (g/capita/day),"Vegetal Products - Protein supply quantity (g/capita/day) (FAO, 2017)"
+# rel-maj = Religious majority,Religious Majority
+# region,Region
+# landlocked = not directly connected to any ocean,Landlocked?
+# pop = population,Population (historical estimates) 2017
+# per capita means per person,
