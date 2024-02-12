@@ -1,4 +1,4 @@
-country,food-ind,grain-ind,pct-agr,pop-density,gdp-pc,pct-ow,co2,cal-pc,animal-p,plant-p,rel-maj,region,landlocked,pop
+country,foodInd,grainInd,pctAgr,popDensity,gdpPc,pctOw,co2,calPc,animalP,plantP,relMaj,region,landlocked,pop
 Afghanistan,FALSE,FALSE,58,56,2058,23,0,2051,11,44,Muslim,Asia-Pacific,TRUE,36296111
 Albania,FALSE,FALSE,43,105,12771,58,2,3390,66,53,Muslim,Europe,FALSE,2884169
 Algeria,FALSE,FALSE,17,17,11737,62,4,3341,26,67,Muslim,Middle East-North Africa,FALSE,41389174
