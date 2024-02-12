@@ -6,3 +6,5 @@ http://umich.edu/~girlswc/
 https://github.com/GWC-DCMB/curriculum-notebooks/tree/main
 
 Food Consumption and its readme are from BootstrapWorld's data science curriculum licensed under CC-BY-NC-ND. The only change made was the formatting by changing the column names to make it easier to read for an educational data science class. 
+https://docs.google.com/spreadsheets/d/1DYVHT7SSjnoDp4MQ80Z1qZSqFdEIlR8Gd20eMx9f1JA/edit#gid=161884673
+https://www.bootstrapworld.org/materials/spring2024/en-us/lessons/choosing-your-dataset-codap/pages/datasets-and-starter-files.html
