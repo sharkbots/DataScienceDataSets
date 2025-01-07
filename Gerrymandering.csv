@@ -1,0 +1,51 @@
+State,Population,% Turnout,% Vote Democrat,% Vote Republican,Total Seats,Democrat Seats,Republican Seats,% Seats Democrat,% Seats Republican,Winning Party,Seats match vote
+Alabama,4887871,47,41,59,7,1,6,14,86,Republican,FALSE
+Alaska,737438,55,46,53,1,0,1,0,100,Republican,TRUE
+Arizona,7171646,47,50,49,9,5,4,56,44,Democratic,TRUE
+Arkansas,3013825,41,35,63,4,0,4,0,100,Republican,FALSE
+California,39557045,49,66,33,53,46,7,87,13,Democratic,FALSE
+Colorado,5695564,61,53,43,7,4,3,57,43,Democratic,TRUE
+Connecticut,3572665,55,62,38,5,5,0,100,0,Democratic,FALSE
+Delaware,967171,51,64,36,1,1,0,100,0,Democratic,TRUE
+Florida,21299325,54,47,52,27,13,14,48,52,Republican,TRUE
+Georgia,10519475,54,48,52,14,5,9,36,64,Republican,FALSE
+Hawaii,1420491,40,75,23,2,2,0,100,0,Democratic,TRUE
+Idaho,1754208,49,35,62,2,0,2,0,100,Republican,TRUE
+Illinois,12741080,52,61,39,18,13,5,72,28,Democratic,FALSE
+Indiana,6691878,47,44,55,9,2,7,22,78,Republican,FALSE
+Iowa,3156145,58,50,47,4,3,1,75,25,Democratic,FALSE
+Kansas,2911505,51,44,54,4,1,3,25,75,Republican,TRUE
+Kentucky,4468402,49,39,60,6,1,5,17,83,Republican,FALSE
+Louisiana,4659978,45,38,57,6,1,5,17,83,Republican,FALSE
+Maine,1338404,60,55,40,2,2,0,100,0,Democratic,TRUE
+Maryland,6042718,54,65,32,8,7,1,88,13,Democratic,FALSE
+Massachusetts,6902149,55,78,20,9,9,0,100,0,Democratic,FALSE
+Michigan,9995915,58,52,45,14,7,7,50,50,Republican,TRUE
+Minnesota,5611179,64,55,44,8,5,3,63,38,Democratic,TRUE
+Mississippi,2986530,44,42,50,4,1,3,25,75,Republican,FALSE
+Missouri,6126452,53,43,55,8,2,6,25,75,Republican,FALSE
+Montana,1062305,61,46,51,1,0,1,0,100,Republican,TRUE
+Nebraska,1929268,52,38,62,3,0,3,0,100,Republican,FALSE
+Nevada,3034392,47,51,46,4,3,1,75,25,Democratic,TRUE
+New Hampshire,1356458,54,54,44,2,2,0,100,0,Democratic,TRUE
+New Jersey,8908520,54,60,39,12,11,1,92,8,Democratic,FALSE
+New Mexico,2095428,47,58,38,3,3,0,100,0,Democratic,FALSE
+New York,19542209,46,67,31,27,21,6,78,22,Democratic,FALSE
+North Carolina,10383620,49,48,50,13,3,9,23,69,Republican,FALSE
+North Dakota,760077,59,36,60,1,0,1,0,100,Republican,TRUE
+Ohio,11689442,51,47,52,16,4,12,25,75,Republican,FALSE
+Oklahoma,3943079,42,36,62,5,1,4,20,80,Republican,TRUE
+Oregon,4190713,61,57,38,5,4,1,80,20,Democratic,FALSE
+Pennsylvania,12807060,52,55,45,18,9,9,50,50,Republican,TRUE
+Rhode Island,1057315,48,65,35,2,2,0,100,0,Democratic,TRUE
+South Carolina,5084127,45,44,54,7,2,5,29,71,Republican,FALSE
+South Dakota,882235,53,36,60,1,0,1,0,100,Republican,TRUE
+Tennessee,6770010,45,39,59,9,2,7,22,78,Republican,FALSE
+Texas,28701845,46,47,50,36,13,23,36,64,Republican,FALSE
+Utah,3161105,51,36,59,4,1,3,25,75,Republican,TRUE
+Vermont,626299,56,69,26,1,1,0,100,0,Democratic,FALSE
+Virginia,8517685,54,56,43,11,7,4,64,36,Democratic,TRUE
+Washington,7535591,58,62,35,10,7,3,70,30,Democratic,TRUE
+West Virginia,1805832,43,41,58,3,0,3,0,100,Republican,FALSE
+Wisconsin,5813568,61,53,46,8,3,5,38,63,Republican,FALSE
+Wyoming,577737,48,30,64,1,0,1,0,100,Republican,TRUE
